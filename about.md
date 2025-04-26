@@ -8,3 +8,10 @@ title: About
 Hi, I'm **Mahmut Ozkaya**!
 
 Feel free to explore my work!
+---
+
+## Navigation
+- [Home](./)
+- [About](./about)
+
+---
